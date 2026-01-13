@@ -1,4 +1,4 @@
-# Spring Boot Task 1
+# Spring Boot Task 
 
 ## Description
 This is a simple web application. It displays a greeting message and the school logo.
